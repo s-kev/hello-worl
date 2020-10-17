@@ -2,5 +2,5 @@
 
 hi humans!
 
-hubot here, I like node.js (yeah, that's me)
+skev here, I like node.js (yeah, that's me)
 I love some tacos
